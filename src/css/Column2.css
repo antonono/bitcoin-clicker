@@ -1,0 +1,6 @@
+.Column2 {
+	flex:1;
+	height:93.35vh;
+	flex-direction:column;
+	display:flex;
+}

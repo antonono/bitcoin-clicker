@@ -1,0 +1,9 @@
+.CryptoWallet {
+  display: flex;
+  flex:2;
+  background-color: #ddd5bd;
+  flex-direction:column;
+  border-bottom:1px solid black;
+  border-right:1px solid black;
+  border-left:1px solid black;
+}

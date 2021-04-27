@@ -1,0 +1,17 @@
+.Shop {
+  display: flex;
+  overflow-y:auto;
+  flex:1;
+  overflow-y:auto;
+  background-color: #ddd5bd;
+  flex-direction:column;
+  border:1px solid black;
+}
+
+.BuyZone{
+  flex-direction:row;
+  display: flex;
+  justify-content:center;
+  flex:1;
+  background-color: #ddd5bd;
+}

@@ -1,0 +1,6 @@
+.Column3 {
+	flex:1;
+	height:93.35vh;
+	display:flex;
+	flex-direction:column;
+}

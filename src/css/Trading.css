@@ -1,0 +1,26 @@
+.Trading {
+  display: flex;
+  overflow-y:auto;
+  flex:1;
+  background-color: #ddd5bd;
+  flex-direction:column;
+  border:1px solid black;
+}
+
+.ToTrade{
+  flex-direction:row;
+  max-height:60px;
+  display: flex;
+  justify-content:center;
+  flex:1;
+  background-color: #ddd5bd;
+}
+
+.clickBoardTwoWay{
+  background: url("../images/twoway.png");
+  background-size: cover;
+  width: 55px;
+  height: 60px;
+  cursor: pointer; 
+  }
+	
